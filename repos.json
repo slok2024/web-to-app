@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "forks_count": 36,
     "language": "Python",
     "pushed_at": "2026-10-22T03:34:28Z",
@@ -47,7 +47,7 @@
   {
     "name": "qsyy",
     "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "forks_count": 0,
     "language": "JavaScript",
     "pushed_at": "2026-10-21T03:42:10Z",
