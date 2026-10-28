@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 172,
+    "stargazers_count": 174,
     "forks_count": 38,
     "language": "Python",
     "pushed_at": "2026-10-22T03:34:28Z",
@@ -79,15 +79,6 @@
     "language": "C",
     "pushed_at": "2026-10-17T09:25:24Z",
     "html_url": "https://github.com/shiaho777/zv-codec"
-  },
-  {
-    "name": "NexFiles",
-    "description": "An open source Material Design file manager, for Android 5.0+.",
-    "stargazers_count": 18,
-    "forks_count": 0,
-    "language": "Kotlin",
-    "pushed_at": "2026-10-15T08:24:28Z",
-    "html_url": "https://github.com/shiaho777/NexFiles"
   },
   {
     "name": "wgsql",
@@ -214,15 +205,6 @@
     "language": "Python",
     "pushed_at": "2026-09-03T14:06:28Z",
     "html_url": "https://github.com/shiaho777/hard-metric-bench"
-  },
-  {
-    "name": "esp-overlay",
-    "description": "Unity il2cpp MOBA ESP overlay —免 root 内存读取 + 悬浮窗渲染工具链(revx 姊妹项目)",
-    "stargazers_count": 10,
-    "forks_count": 0,
-    "language": "C++",
-    "pushed_at": "2026-08-31T13:01:37Z",
-    "html_url": "https://github.com/shiaho777/esp-overlay"
   },
   {
     "name": "issue-pr-ci-delivery",
