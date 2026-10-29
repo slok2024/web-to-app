@@ -29,8 +29,8 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 31,
-    "forks_count": 2,
+    "stargazers_count": 32,
+    "forks_count": 3,
     "language": "Kotlin",
     "pushed_at": "2026-10-22T13:48:05Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
@@ -102,7 +102,7 @@
     "name": "float-android",
     "description": "一部装在 Android 里的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
     "stargazers_count": 15,
-    "forks_count": 11,
+    "forks_count": 12,
     "language": "TypeScript",
     "pushed_at": "2026-10-10T07:06:10Z",
     "html_url": "https://github.com/shiaho777/float-android"
