@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "forks_count": 39,
     "language": "Python",
     "pushed_at": "2026-10-22T03:34:28Z",
@@ -30,15 +30,15 @@
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
     "stargazers_count": 32,
-    "forks_count": 3,
+    "forks_count": 4,
     "language": "Kotlin",
-    "pushed_at": "2026-10-29T15:28:08Z",
+    "pushed_at": "2026-10-30T11:21:56Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
   },
   {
     "name": "WebViewIDE",
     "description": "On-device IDE for HTML, CSS, and JavaScript. Preview in the system WebView and package a signed APK. No root.",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "forks_count": 1,
     "language": "Kotlin",
     "pushed_at": "2026-10-30T01:24:41Z",
@@ -47,7 +47,7 @@
   {
     "name": "qsyy",
     "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "forks_count": 0,
     "language": "JavaScript",
     "pushed_at": "2026-10-21T03:42:10Z",
@@ -236,7 +236,7 @@
   {
     "name": "BiliDesk",
     "description": "哔哩哔哩第三方客户端 · Compose Multiplatform · Android / Windows / macOS / Linux",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "forks_count": 0,
     "language": "Kotlin",
     "pushed_at": "2026-10-17T09:08:28Z",
