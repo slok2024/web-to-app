@@ -2,16 +2,16 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "forks_count": 39,
     "language": "Python",
-    "pushed_at": "2026-10-22T03:34:28Z",
+    "pushed_at": "2026-10-31T01:40:12Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
   },
   {
     "name": "jseek",
     "description": "The fastest way to pull values out of JSON in Go — zero allocations, no structs, no full parse",
-    "stargazers_count": 40,
+    "stargazers_count": 39,
     "forks_count": 2,
     "language": "Go",
     "pushed_at": "2026-07-16T13:18:14Z",
@@ -20,7 +20,7 @@
   {
     "name": "turn-mcp",
     "description": "Achieve infinite conversation turns in a single API request via turn-mcp.             Self-hosted MCP server with browser console for human-in-the-loop AI agents.",
-    "stargazers_count": 38,
+    "stargazers_count": 37,
     "forks_count": 9,
     "language": "TypeScript",
     "pushed_at": "2026-10-13T13:29:04Z",
@@ -29,7 +29,7 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "forks_count": 4,
     "language": "Kotlin",
     "pushed_at": "2026-10-30T11:21:56Z",
@@ -38,7 +38,7 @@
   {
     "name": "WebViewIDE",
     "description": "On-device IDE for HTML, CSS, and JavaScript. Preview in the system WebView and package a signed APK. No root.",
-    "stargazers_count": 23,
+    "stargazers_count": 22,
     "forks_count": 1,
     "language": "Kotlin",
     "pushed_at": "2026-10-30T01:24:41Z",
@@ -47,7 +47,7 @@
   {
     "name": "qsyy",
     "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
-    "stargazers_count": 23,
+    "stargazers_count": 22,
     "forks_count": 0,
     "language": "JavaScript",
     "pushed_at": "2026-10-21T03:42:10Z",
@@ -56,7 +56,7 @@
   {
     "name": "andmx",
     "description": "Android-native AI coding agent (AndMX)",
-    "stargazers_count": 20,
+    "stargazers_count": 19,
     "forks_count": 5,
     "language": "Kotlin",
     "pushed_at": "2026-09-27T13:43:57Z",
@@ -65,7 +65,7 @@
   {
     "name": "revx",
     "description": "Rust reverse-engineering toolkit with CLI and local MCP server.",
-    "stargazers_count": 19,
+    "stargazers_count": 18,
     "forks_count": 0,
     "language": "Rust",
     "pushed_at": "2026-10-28T04:13:52Z",
@@ -74,7 +74,7 @@
   {
     "name": "zv-codec",
     "description": "Tiny video/audio codec optimized for screen recordings. 24% smaller than x265 lossless RGB at the same speed, ~1100 lines of C, no NN, no external deps.",
-    "stargazers_count": 18,
+    "stargazers_count": 17,
     "forks_count": 0,
     "language": "C",
     "pushed_at": "2026-10-17T09:25:24Z",
@@ -83,7 +83,7 @@
   {
     "name": "wgsql",
     "description": "GPU-accelerated columnar OLAP via WebGPU. One WGSL kernel, four backends.",
-    "stargazers_count": 17,
+    "stargazers_count": 16,
     "forks_count": 0,
     "language": "Rust",
     "pushed_at": "2026-09-17T06:30:59Z",
@@ -92,7 +92,7 @@
   {
     "name": "An-Harness",
     "description": "Android-first on-device AI agent harness — exploring everything possible on Android",
-    "stargazers_count": 16,
+    "stargazers_count": 15,
     "forks_count": 3,
     "language": "Kotlin",
     "pushed_at": "2026-09-08T10:15:19Z",
@@ -101,8 +101,8 @@
   {
     "name": "float-android",
     "description": "一部装在 Android 里的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
-    "stargazers_count": 15,
-    "forks_count": 12,
+    "stargazers_count": 14,
+    "forks_count": 13,
     "language": "TypeScript",
     "pushed_at": "2026-10-10T07:06:10Z",
     "html_url": "https://github.com/shiaho777/float-android"
@@ -110,7 +110,7 @@
   {
     "name": "MacBottle",
     "description": null,
-    "stargazers_count": 14,
+    "stargazers_count": 13,
     "forks_count": 0,
     "language": "Swift",
     "pushed_at": "2026-10-07T08:15:41Z",
@@ -119,7 +119,7 @@
   {
     "name": "echomind",
     "description": "A non-attention LM recipe with proven small-scale ICL and Chinchilla-style scaling law (R²=0.995). Reproducible in 25 minutes on a MacBook.",
-    "stargazers_count": 14,
+    "stargazers_count": 13,
     "forks_count": 0,
     "language": "Python",
     "pushed_at": "2026-05-28T10:56:43Z",
@@ -128,7 +128,7 @@
   {
     "name": "anthropic-ui-skill",
     "description": "A Skill that allows AI to generate the UI design style of Anthropic Company. Its aesthetics are very good.",
-    "stargazers_count": 14,
+    "stargazers_count": 13,
     "forks_count": 1,
     "language": null,
     "pushed_at": "2026-05-28T08:50:31Z",
@@ -137,7 +137,7 @@
   {
     "name": "memx",
     "description": "MemX — ~100× lower LLM memory on Apple, original precision. Stable planes: ~9× phys · ~100× engine · ~300× vessel capability (bitexact).",
-    "stargazers_count": 13,
+    "stargazers_count": 12,
     "forks_count": 0,
     "language": "Objective-C",
     "pushed_at": "2026-09-17T05:57:19Z",
@@ -146,7 +146,7 @@
   {
     "name": "clipshelf",
     "description": "macOS menu bar clipboard history — rules on copy, app-aware paste, local search.",
-    "stargazers_count": 13,
+    "stargazers_count": 12,
     "forks_count": 0,
     "language": "Swift",
     "pushed_at": "2026-09-14T12:39:27Z",
@@ -155,7 +155,7 @@
   {
     "name": "stratum",
     "description": "Pure-C transformer inference engine for Apple Silicon — wired memory independent of model size (mmap streaming, NEON/Metal)",
-    "stargazers_count": 12,
+    "stargazers_count": 11,
     "forks_count": 0,
     "language": "C",
     "pushed_at": "2026-10-22T13:47:22Z",
@@ -164,7 +164,7 @@
   {
     "name": "pyj-j",
     "description": "J as a tensor engine inside Python — zero-copy numpy bridge, reverse-mode autodiff written in J, tape-to-J compiler",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "forks_count": 0,
     "language": "Python",
     "pushed_at": "2026-10-22T22:08:34Z",
@@ -173,7 +173,7 @@
   {
     "name": "browser-engine-shia",
     "description": "A from-scratch, read-it-front-to-back browser engine. North star: highest compat-per-LOC.",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "forks_count": 1,
     "language": "TypeScript",
     "pushed_at": "2026-10-22T14:58:39Z",
@@ -182,7 +182,7 @@
   {
     "name": "vaultx",
     "description": "VaultX — local-only encrypted vault for Android (Argon2id + Tink Streaming AEAD + Compose)",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "forks_count": 1,
     "language": "Kotlin",
     "pushed_at": "2026-09-22T04:31:43Z",
@@ -191,7 +191,7 @@
   {
     "name": "zcode-exports",
     "description": "Export ZCode session data to Markdown as a skill",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "forks_count": 0,
     "language": null,
     "pushed_at": "2026-08-19T02:15:54Z",
@@ -200,7 +200,7 @@
   {
     "name": "hard-metric-bench",
     "description": "Five hard-metric AI benchmarks (vector DB, language, inference, training, web-to-app) with a public measured-results leaderboard.",
-    "stargazers_count": 10,
+    "stargazers_count": 9,
     "forks_count": 0,
     "language": "Python",
     "pushed_at": "2026-09-03T14:06:28Z",
@@ -209,7 +209,7 @@
   {
     "name": "issue-pr-ci-delivery",
     "description": "Bootstrap & run an Issue → PR → CI → merge delivery loop for any GitHub repo",
-    "stargazers_count": 10,
+    "stargazers_count": 9,
     "forks_count": 0,
     "language": null,
     "pushed_at": "2026-07-31T07:26:23Z",
@@ -218,7 +218,7 @@
   {
     "name": "pocket-linux-images",
     "description": "Public prebuilt Linux rootfs images for the PocketLinux Android app (Ubuntu/Debian x XFCE/LXQt)",
-    "stargazers_count": 9,
+    "stargazers_count": 8,
     "forks_count": 0,
     "language": null,
     "pushed_at": "2026-09-17T06:21:35Z",
@@ -227,7 +227,7 @@
   {
     "name": "charter",
     "description": "Charter — agent-native Android framework: Compose design system, enforceable AGENTS.md contracts, and a one-command acceptance harness",
-    "stargazers_count": 9,
+    "stargazers_count": 8,
     "forks_count": 1,
     "language": "Kotlin",
     "pushed_at": "2026-09-10T05:36:50Z",
