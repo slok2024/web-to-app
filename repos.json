@@ -29,7 +29,7 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "forks_count": 4,
     "language": "Kotlin",
     "pushed_at": "2026-10-30T11:21:56Z",
