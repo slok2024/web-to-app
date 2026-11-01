@@ -2,8 +2,8 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 178,
-    "forks_count": 39,
+    "stargazers_count": 180,
+    "forks_count": 40,
     "language": "Python",
     "pushed_at": "2026-10-31T01:40:12Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
@@ -56,7 +56,7 @@
   {
     "name": "andmx",
     "description": "Android-native AI coding agent (AndMX)",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "forks_count": 5,
     "language": "Kotlin",
     "pushed_at": "2026-09-27T13:43:57Z",
