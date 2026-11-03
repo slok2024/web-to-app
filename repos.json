@@ -59,7 +59,7 @@
     "stargazers_count": 21,
     "forks_count": 6,
     "language": "Kotlin",
-    "pushed_at": "2026-11-02T16:57:25Z",
+    "pushed_at": "2026-11-03T06:00:39Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -113,7 +113,7 @@
     "stargazers_count": 13,
     "forks_count": 0,
     "language": "Swift",
-    "pushed_at": "2026-11-02T16:48:36Z",
+    "pushed_at": "2026-11-03T05:04:57Z",
     "html_url": "https://github.com/shiaho777/MacBottle"
   },
   {
@@ -234,13 +234,22 @@
     "html_url": "https://github.com/shiaho777/charter"
   },
   {
-    "name": "BiliDesk",
-    "description": "哔哩哔哩第三方客户端 · Compose Multiplatform · Android / Windows / macOS / Linux",
+    "name": "ailiaili",
+    "description": "ailiaili · 哔哩哔哩第三方客户端 · Compose Multiplatform · Android / Windows / macOS / Linux",
     "stargazers_count": 3,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-10-17T09:08:28Z",
-    "html_url": "https://github.com/shiaho777/BiliDesk"
+    "pushed_at": "2026-11-03T04:31:47Z",
+    "html_url": "https://github.com/shiaho777/ailiaili"
+  },
+  {
+    "name": "dogsc-compose",
+    "description": "Unofficial Android port of DogSC — clean-room Compose recorder + editor",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": null,
+    "pushed_at": "2026-11-03T03:20:01Z",
+    "html_url": "https://github.com/shiaho777/dogsc-compose"
   },
   {
     "name": "repo-maintenance",
