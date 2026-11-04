@@ -2,10 +2,10 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 183,
-    "forks_count": 40,
+    "stargazers_count": 184,
+    "forks_count": 41,
     "language": "Python",
-    "pushed_at": "2026-11-03T18:54:21Z",
+    "pushed_at": "2026-11-04T06:01:02Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
   },
   {
@@ -32,8 +32,17 @@
     "stargazers_count": 34,
     "forks_count": 4,
     "language": "Kotlin",
-    "pushed_at": "2026-11-03T19:31:28Z",
+    "pushed_at": "2026-11-04T05:40:37Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
+  },
+  {
+    "name": "qsyy",
+    "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
+    "stargazers_count": 23,
+    "forks_count": 1,
+    "language": "JavaScript",
+    "pushed_at": "2026-11-04T04:54:43Z",
+    "html_url": "https://github.com/shiaho777/qsyy"
   },
   {
     "name": "WebViewIDE",
@@ -41,17 +50,8 @@
     "stargazers_count": 22,
     "forks_count": 1,
     "language": "Kotlin",
-    "pushed_at": "2026-11-03T18:35:42Z",
+    "pushed_at": "2026-11-04T03:40:59Z",
     "html_url": "https://github.com/shiaho777/WebViewIDE"
-  },
-  {
-    "name": "qsyy",
-    "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
-    "stargazers_count": 22,
-    "forks_count": 1,
-    "language": "JavaScript",
-    "pushed_at": "2026-11-03T17:51:53Z",
-    "html_url": "https://github.com/shiaho777/qsyy"
   },
   {
     "name": "andmx",
@@ -59,7 +59,7 @@
     "stargazers_count": 21,
     "forks_count": 6,
     "language": "Kotlin",
-    "pushed_at": "2026-11-03T17:34:48Z",
+    "pushed_at": "2026-11-04T06:29:25Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -99,13 +99,13 @@
     "html_url": "https://github.com/shiaho777/An-Harness"
   },
   {
-    "name": "float-android",
+    "name": "pneuma-android",
     "description": "一部装在 Android 里的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
     "stargazers_count": 14,
     "forks_count": 13,
     "language": "TypeScript",
-    "pushed_at": "2026-11-03T19:02:15Z",
-    "html_url": "https://github.com/shiaho777/float-android"
+    "pushed_at": "2026-11-04T03:13:16Z",
+    "html_url": "https://github.com/shiaho777/pneuma-android"
   },
   {
     "name": "MacBottle",
@@ -113,7 +113,7 @@
     "stargazers_count": 13,
     "forks_count": 0,
     "language": "Swift",
-    "pushed_at": "2026-11-03T18:49:39Z",
+    "pushed_at": "2026-11-04T03:45:49Z",
     "html_url": "https://github.com/shiaho777/MacBottle"
   },
   {
@@ -239,7 +239,7 @@
     "stargazers_count": 3,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-03T18:53:59Z",
+    "pushed_at": "2026-11-04T03:15:29Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
