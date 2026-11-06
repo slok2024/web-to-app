@@ -243,6 +243,15 @@
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
+    "name": "repo-maintenance",
+    "description": "Agent skill for maintaining living App and AI repos. One claim per chat, so concurrent harnesses do not work the same project.",
+    "stargazers_count": 1,
+    "forks_count": 1,
+    "language": "Shell",
+    "pushed_at": "2026-10-22T14:38:07Z",
+    "html_url": "https://github.com/shiaho777/repo-maintenance"
+  },
+  {
     "name": "dogsc-compose",
     "description": "Unofficial Android port of DogSC — clean-room Compose recorder + editor",
     "stargazers_count": 0,
@@ -250,15 +259,6 @@
     "language": null,
     "pushed_at": "2026-11-03T03:20:01Z",
     "html_url": "https://github.com/shiaho777/dogsc-compose"
-  },
-  {
-    "name": "repo-maintenance",
-    "description": "Agent skill for maintaining living App and AI repos. One claim per chat, so concurrent harnesses do not work the same project.",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "language": "Shell",
-    "pushed_at": "2026-10-22T14:38:07Z",
-    "html_url": "https://github.com/shiaho777/repo-maintenance"
   },
   {
     "name": "nixiang",
