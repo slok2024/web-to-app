@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 184,
+    "stargazers_count": 186,
     "forks_count": 41,
     "language": "Python",
     "pushed_at": "2026-11-06T06:46:16Z",
@@ -11,7 +11,7 @@
   {
     "name": "jseek",
     "description": "The fastest way to pull values out of JSON in Go — zero allocations, no structs, no full parse",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "forks_count": 2,
     "language": "Go",
     "pushed_at": "2026-07-16T13:18:14Z",
@@ -20,7 +20,7 @@
   {
     "name": "turn-mcp",
     "description": "Achieve infinite conversation turns in a single API request via turn-mcp.             Self-hosted MCP server with browser console for human-in-the-loop AI agents.",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "forks_count": 9,
     "language": "TypeScript",
     "pushed_at": "2026-10-13T13:29:04Z",
