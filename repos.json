@@ -2,10 +2,10 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "forks_count": 41,
     "language": "Python",
-    "pushed_at": "2026-11-09T14:00:37Z",
+    "pushed_at": "2026-11-10T05:02:05Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
   },
   {
@@ -32,7 +32,7 @@
     "stargazers_count": 35,
     "forks_count": 4,
     "language": "Kotlin",
-    "pushed_at": "2026-11-04T13:51:33Z",
+    "pushed_at": "2026-11-10T05:32:09Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
   },
   {
@@ -41,7 +41,7 @@
     "stargazers_count": 25,
     "forks_count": 0,
     "language": "JavaScript",
-    "pushed_at": "2026-11-05T06:32:47Z",
+    "pushed_at": "2026-11-10T05:07:47Z",
     "html_url": "https://github.com/shiaho777/qsyy"
   },
   {
@@ -59,7 +59,7 @@
     "stargazers_count": 21,
     "forks_count": 7,
     "language": "Kotlin",
-    "pushed_at": "2026-11-05T08:43:25Z",
+    "pushed_at": "2026-11-10T07:23:30Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -100,11 +100,11 @@
   },
   {
     "name": "pneuma-android",
-    "description": "一部装在 Android 里的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
+    "description": "Pneuma · 一部会呼吸的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
     "stargazers_count": 14,
     "forks_count": 13,
     "language": "TypeScript",
-    "pushed_at": "2026-11-04T03:13:16Z",
+    "pushed_at": "2026-11-10T04:58:45Z",
     "html_url": "https://github.com/shiaho777/pneuma-android"
   },
   {
@@ -113,7 +113,7 @@
     "stargazers_count": 13,
     "forks_count": 0,
     "language": "Swift",
-    "pushed_at": "2026-11-04T03:45:49Z",
+    "pushed_at": "2026-11-10T07:14:01Z",
     "html_url": "https://github.com/shiaho777/MacBottle"
   },
   {
@@ -239,7 +239,7 @@
     "stargazers_count": 3,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-04T03:15:29Z",
+    "pushed_at": "2026-11-10T07:26:56Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
