@@ -29,7 +29,7 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "forks_count": 4,
     "language": "Kotlin",
     "pushed_at": "2026-11-10T12:30:45Z",
@@ -59,7 +59,7 @@
     "stargazers_count": 21,
     "forks_count": 7,
     "language": "Kotlin",
-    "pushed_at": "2026-11-10T13:09:29Z",
+    "pushed_at": "2026-11-11T02:43:20Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -104,7 +104,7 @@
     "stargazers_count": 15,
     "forks_count": 13,
     "language": "TypeScript",
-    "pushed_at": "2026-11-10T15:19:29Z",
+    "pushed_at": "2026-11-11T02:02:48Z",
     "html_url": "https://github.com/shiaho777/pneuma-android"
   },
   {
@@ -239,7 +239,7 @@
     "stargazers_count": 4,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-10T15:26:19Z",
+    "pushed_at": "2026-11-11T01:42:59Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
