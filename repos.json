@@ -11,7 +11,7 @@
   {
     "name": "jseek",
     "description": "The fastest way to pull values out of JSON in Go — zero allocations, no structs, no full parse",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "forks_count": 2,
     "language": "Go",
     "pushed_at": "2026-07-16T13:18:14Z",
@@ -20,7 +20,7 @@
   {
     "name": "turn-mcp",
     "description": "Achieve infinite conversation turns in a single API request via turn-mcp.             Self-hosted MCP server with browser console for human-in-the-loop AI agents.",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "forks_count": 9,
     "language": "TypeScript",
     "pushed_at": "2026-10-13T13:29:04Z",
@@ -47,7 +47,7 @@
   {
     "name": "WebViewIDE",
     "description": "On-device IDE for HTML, CSS, and JavaScript. Preview in the system WebView and package a signed APK. No root.",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "forks_count": 2,
     "language": "Kotlin",
     "pushed_at": "2026-11-06T01:24:42Z",
@@ -56,7 +56,7 @@
   {
     "name": "andmx",
     "description": "Android-native AI coding agent (AndMX)",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "forks_count": 7,
     "language": "Kotlin",
     "pushed_at": "2026-11-11T14:02:31Z",
@@ -81,6 +81,15 @@
     "html_url": "https://github.com/shiaho777/zv-codec"
   },
   {
+    "name": "An-Harness",
+    "description": "Android-first on-device AI agent harness — exploring everything possible on Android",
+    "stargazers_count": 17,
+    "forks_count": 4,
+    "language": "Kotlin",
+    "pushed_at": "2026-09-08T10:15:19Z",
+    "html_url": "https://github.com/shiaho777/An-Harness"
+  },
+  {
     "name": "wgsql",
     "description": "GPU-accelerated columnar OLAP via WebGPU. One WGSL kernel, four backends.",
     "stargazers_count": 16,
@@ -90,21 +99,12 @@
     "html_url": "https://github.com/shiaho777/wgsql"
   },
   {
-    "name": "An-Harness",
-    "description": "Android-first on-device AI agent harness — exploring everything possible on Android",
-    "stargazers_count": 16,
-    "forks_count": 4,
-    "language": "Kotlin",
-    "pushed_at": "2026-09-08T10:15:19Z",
-    "html_url": "https://github.com/shiaho777/An-Harness"
-  },
-  {
     "name": "pneuma-android",
     "description": "Pneuma · 一部会呼吸的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
     "stargazers_count": 15,
     "forks_count": 13,
     "language": "TypeScript",
-    "pushed_at": "2026-11-11T15:11:05Z",
+    "pushed_at": "2026-11-12T10:06:27Z",
     "html_url": "https://github.com/shiaho777/pneuma-android"
   },
   {
