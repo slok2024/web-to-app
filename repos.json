@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "forks_count": 41,
     "language": "Python",
     "pushed_at": "2026-11-10T05:02:05Z",
@@ -50,7 +50,7 @@
     "stargazers_count": 23,
     "forks_count": 2,
     "language": "Kotlin",
-    "pushed_at": "2026-11-06T01:24:42Z",
+    "pushed_at": "2026-11-13T01:25:07Z",
     "html_url": "https://github.com/shiaho777/WebViewIDE"
   },
   {
