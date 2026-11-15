@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 191,
+    "stargazers_count": 193,
     "forks_count": 41,
     "language": "Python",
     "pushed_at": "2026-11-10T05:02:05Z",
@@ -29,7 +29,7 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "forks_count": 4,
     "language": "Kotlin",
     "pushed_at": "2026-11-10T12:30:45Z",
