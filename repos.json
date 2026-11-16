@@ -5,7 +5,7 @@
     "stargazers_count": 194,
     "forks_count": 41,
     "language": "Python",
-    "pushed_at": "2026-11-16T04:44:51Z",
+    "pushed_at": "2026-11-16T14:22:34Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
   },
   {
@@ -14,7 +14,7 @@
     "stargazers_count": 41,
     "forks_count": 2,
     "language": "Go",
-    "pushed_at": "2026-07-16T13:18:14Z",
+    "pushed_at": "2026-11-16T18:04:47Z",
     "html_url": "https://github.com/shiaho777/jseek"
   },
   {
@@ -32,7 +32,7 @@
     "stargazers_count": 37,
     "forks_count": 4,
     "language": "Kotlin",
-    "pushed_at": "2026-11-10T12:30:45Z",
+    "pushed_at": "2026-11-16T16:03:15Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
   },
   {
@@ -45,22 +45,22 @@
     "html_url": "https://github.com/shiaho777/qsyy"
   },
   {
-    "name": "WebViewIDE",
-    "description": "On-device IDE for HTML, CSS, and JavaScript. Preview in the system WebView and package a signed APK. No root.",
-    "stargazers_count": 23,
-    "forks_count": 2,
-    "language": "Kotlin",
-    "pushed_at": "2026-11-16T06:27:50Z",
-    "html_url": "https://github.com/shiaho777/WebViewIDE"
-  },
-  {
     "name": "andmx",
     "description": "Android-native AI coding agent (AndMX)",
     "stargazers_count": 22,
     "forks_count": 7,
     "language": "Kotlin",
-    "pushed_at": "2026-11-16T06:15:21Z",
+    "pushed_at": "2026-11-16T17:46:53Z",
     "html_url": "https://github.com/shiaho777/andmx"
+  },
+  {
+    "name": "WebViewIDE",
+    "description": "On-device IDE for HTML, CSS, and JavaScript. Preview in the system WebView and package a signed APK. No root.",
+    "stargazers_count": 22,
+    "forks_count": 2,
+    "language": "Kotlin",
+    "pushed_at": "2026-11-16T16:09:01Z",
+    "html_url": "https://github.com/shiaho777/WebViewIDE"
   },
   {
     "name": "revx",
@@ -68,8 +68,17 @@
     "stargazers_count": 18,
     "forks_count": 0,
     "language": "Rust",
-    "pushed_at": "2026-10-28T04:13:52Z",
+    "pushed_at": "2026-11-16T18:08:42Z",
     "html_url": "https://github.com/shiaho777/revx"
+  },
+  {
+    "name": "An-Harness",
+    "description": "Android-first on-device AI agent harness — exploring everything possible on Android",
+    "stargazers_count": 17,
+    "forks_count": 4,
+    "language": "Kotlin",
+    "pushed_at": "2026-11-16T17:54:31Z",
+    "html_url": "https://github.com/shiaho777/An-Harness"
   },
   {
     "name": "zv-codec",
@@ -79,15 +88,6 @@
     "language": "C",
     "pushed_at": "2026-10-17T09:25:24Z",
     "html_url": "https://github.com/shiaho777/zv-codec"
-  },
-  {
-    "name": "An-Harness",
-    "description": "Android-first on-device AI agent harness — exploring everything possible on Android",
-    "stargazers_count": 17,
-    "forks_count": 4,
-    "language": "Kotlin",
-    "pushed_at": "2026-09-08T10:15:19Z",
-    "html_url": "https://github.com/shiaho777/An-Harness"
   },
   {
     "name": "wgsql",
@@ -135,6 +135,15 @@
     "html_url": "https://github.com/shiaho777/anthropic-ui-skill"
   },
   {
+    "name": "clipshelf",
+    "description": "macOS menu bar clipboard history — rules on copy, app-aware paste, local search.",
+    "stargazers_count": 12,
+    "forks_count": 0,
+    "language": "Swift",
+    "pushed_at": "2026-11-16T14:33:09Z",
+    "html_url": "https://github.com/shiaho777/clipshelf"
+  },
+  {
     "name": "memx",
     "description": "MemX — ~100× lower LLM memory on Apple, original precision. Stable planes: ~9× phys · ~100× engine · ~300× vessel capability (bitexact).",
     "stargazers_count": 12,
@@ -144,15 +153,6 @@
     "html_url": "https://github.com/shiaho777/memx"
   },
   {
-    "name": "clipshelf",
-    "description": "macOS menu bar clipboard history — rules on copy, app-aware paste, local search.",
-    "stargazers_count": 12,
-    "forks_count": 0,
-    "language": "Swift",
-    "pushed_at": "2026-09-14T12:39:27Z",
-    "html_url": "https://github.com/shiaho777/clipshelf"
-  },
-  {
     "name": "stratum",
     "description": "Pure-C transformer inference engine for Apple Silicon — wired memory independent of model size (mmap streaming, NEON/Metal)",
     "stargazers_count": 11,
@@ -160,6 +160,15 @@
     "language": "C",
     "pushed_at": "2026-11-05T09:25:33Z",
     "html_url": "https://github.com/shiaho777/stratum"
+  },
+  {
+    "name": "vaultx",
+    "description": "VaultX — local-only encrypted vault for Android (Argon2id + Tink Streaming AEAD + Compose)",
+    "stargazers_count": 10,
+    "forks_count": 1,
+    "language": "Kotlin",
+    "pushed_at": "2026-11-16T18:08:53Z",
+    "html_url": "https://github.com/shiaho777/vaultx"
   },
   {
     "name": "pyj-j",
@@ -178,15 +187,6 @@
     "language": "TypeScript",
     "pushed_at": "2026-10-22T14:58:39Z",
     "html_url": "https://github.com/shiaho777/browser-engine-shia"
-  },
-  {
-    "name": "vaultx",
-    "description": "VaultX — local-only encrypted vault for Android (Argon2id + Tink Streaming AEAD + Compose)",
-    "stargazers_count": 10,
-    "forks_count": 1,
-    "language": "Kotlin",
-    "pushed_at": "2026-09-22T04:31:43Z",
-    "html_url": "https://github.com/shiaho777/vaultx"
   },
   {
     "name": "zcode-exports",
@@ -239,7 +239,7 @@
     "stargazers_count": 4,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-12T03:39:18Z",
+    "pushed_at": "2026-11-16T17:53:51Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
