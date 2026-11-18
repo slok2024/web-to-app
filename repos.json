@@ -3,7 +3,7 @@
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
     "stargazers_count": 196,
-    "forks_count": 41,
+    "forks_count": 42,
     "language": "Python",
     "pushed_at": "2026-11-17T17:52:28Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
@@ -14,7 +14,7 @@
     "stargazers_count": 41,
     "forks_count": 2,
     "language": "Go",
-    "pushed_at": "2026-11-17T15:21:45Z",
+    "pushed_at": "2026-11-18T03:09:32Z",
     "html_url": "https://github.com/shiaho777/jseek"
   },
   {
@@ -32,13 +32,13 @@
     "stargazers_count": 38,
     "forks_count": 5,
     "language": "Kotlin",
-    "pushed_at": "2026-11-17T15:42:39Z",
+    "pushed_at": "2026-11-18T03:29:10Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
   },
   {
     "name": "qsyy",
     "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "forks_count": 0,
     "language": "JavaScript",
     "pushed_at": "2026-11-10T05:07:47Z",
@@ -50,7 +50,7 @@
     "stargazers_count": 23,
     "forks_count": 8,
     "language": "Kotlin",
-    "pushed_at": "2026-11-17T20:15:42Z",
+    "pushed_at": "2026-11-18T04:55:22Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -59,7 +59,7 @@
     "stargazers_count": 22,
     "forks_count": 2,
     "language": "Kotlin",
-    "pushed_at": "2026-11-17T16:37:31Z",
+    "pushed_at": "2026-11-18T05:58:28Z",
     "html_url": "https://github.com/shiaho777/WebViewIDE"
   },
   {
@@ -68,7 +68,7 @@
     "stargazers_count": 18,
     "forks_count": 0,
     "language": "Rust",
-    "pushed_at": "2026-11-17T17:45:04Z",
+    "pushed_at": "2026-11-18T03:17:46Z",
     "html_url": "https://github.com/shiaho777/revx"
   },
   {
@@ -113,7 +113,7 @@
     "stargazers_count": 13,
     "forks_count": 0,
     "language": "Swift",
-    "pushed_at": "2026-11-17T16:17:27Z",
+    "pushed_at": "2026-11-18T02:50:00Z",
     "html_url": "https://github.com/shiaho777/MacBottle"
   },
   {
@@ -167,7 +167,7 @@
     "stargazers_count": 10,
     "forks_count": 0,
     "language": "Python",
-    "pushed_at": "2026-11-17T17:31:19Z",
+    "pushed_at": "2026-11-18T01:48:48Z",
     "html_url": "https://github.com/shiaho777/pyj-j"
   },
   {
@@ -239,7 +239,7 @@
     "stargazers_count": 4,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-17T03:16:37Z",
+    "pushed_at": "2026-11-18T03:09:40Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
@@ -256,8 +256,8 @@
     "description": "Pneuma · 感情优先的 AI 角色世界：酒馆的深度，消费级的体验。本地优先，零遥测。",
     "stargazers_count": 0,
     "forks_count": 0,
-    "language": null,
-    "pushed_at": "2026-11-17T17:23:04Z",
+    "language": "TypeScript",
+    "pushed_at": "2026-11-18T04:40:15Z",
     "html_url": "https://github.com/shiaho777/pneuma"
   },
   {
@@ -266,8 +266,17 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-17T09:27:35Z",
+    "pushed_at": "2026-11-18T04:34:17Z",
     "html_url": "https://github.com/shiaho777/dogsc-compose"
+  },
+  {
+    "name": "Liora",
+    "description": "An open-source browser framework: the shell is the core, the kernel is swappable.",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "Svelte",
+    "pushed_at": "2026-11-18T03:44:37Z",
+    "html_url": "https://github.com/shiaho777/Liora"
   },
   {
     "name": "nixiang",
